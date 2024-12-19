@@ -20,3 +20,18 @@ You can access the app here: [Water Potability Prediction App](https://waterqual
    ```bash
    git clone https://github.com/<your-username>/water-potability-prediction.git
    cd water-potability-prediction
+
+
+
+##For potable water quality, you should aim to have values that align with safe drinking water standards. Below are typical recommended ranges for various water quality parameters:
+
+##General Guidelines for Potable Water Quality:
+pH: 6.5 to 8.5
+Hardness: < 300 mg/L
+Solids: < 500 mg/L
+Chloramines: < 4 mg/L
+Sulfate: < 250 mg/L
+Conductivity: < 700 μS/cm
+Organic Carbon: < 2 mg/L
+Trihalomethanes: < 100 μg/L
+Turbidity: < 1 NTU
